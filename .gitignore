@@ -1,3 +1,48 @@
+/target/
+**/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### IDEA mvn ###
+.mvn/
+mvnw
+mvnw.cmd
+
+##log##
+log/
+
+src/main/resources/generator
+src/main/resources/application-kxp.yml
+datadocker/
+
+# 云合同令牌
+token.txt
+
+application.yml
+
+
 # Compiled class file
 *.class
 
