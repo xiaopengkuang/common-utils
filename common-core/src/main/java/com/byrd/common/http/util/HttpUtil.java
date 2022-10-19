@@ -145,7 +145,6 @@ public class HttpUtil {
             e.printStackTrace();
         }
         return responseBody;
-
     }
 
     /**
